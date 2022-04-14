@@ -2,6 +2,8 @@
 some_string = 'My girlfriend is a cutest girl ever'
 some_other_string = ' and I love her so much.'
 
+puts "#{12345} that's a number"
+
 puts "The variable: #{some_string} | class: #{some_string.class}"
 puts "Length: #{some_string.length}"
 puts "Upcase: #{some_string.upcase}"
